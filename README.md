@@ -1,4 +1,4 @@
-### Hi there 👋
+[NYC]() 🗽 | [Author](https://www.apress.com/us/book/9781484209813) 📕 | [Meetup Organizier](https://www.meetup.com/New-York-Kotlin-Meetup/) | [Father]() 👨‍👩‍👧‍👦 | [TEDx Speaker](https://www.youtube.com/watch?v=iR3_yIx2X0s) 🗣 | [Conference Speaker]() 🗣 | [Blogger]() ✏️ | [Cobler](https://imgur.com/a/ukCkc) 👞
 
 <!--
 **brentwatson/brentwatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
